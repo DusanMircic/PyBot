@@ -1,0 +1,1 @@
+Make an array of pictures and scan their pixel values after grayscale
